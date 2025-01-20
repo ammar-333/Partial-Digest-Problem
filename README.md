@@ -1,6 +1,6 @@
 ## Partial-Digest-Problem
 
-this is a simple python code for the known Partial-Digest-Problem using two brute force algorithm and thisA quick summary of it<br/>
+this is a simple python code for the known Partial-Digest-Problem using two brute force algorithm and this a quick summary of it<br/>
 
 The sample of DNA is exposed to the restriction enzyme for only a limited amount of time to prevent it from being cut at all restriction sites.
 This experiment generates the set of all possible restriction fragments between every two (not necessarily consecutive) restriction sites.
